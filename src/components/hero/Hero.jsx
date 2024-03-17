@@ -39,13 +39,13 @@ const Hero = () => {
         >
           <motion.img
             variants={slideIn("up", "tween", 0.5, 1.3)}
-            src="./maria.png"
+            src="./maria3.png"
             alt=""
           />
         </motion.div>
 
         <a className={css.email} href="mailto: abdirizackissack2018@gmail.com">
-          maryamhassan"gmai.com"
+          Manishakaay@gmail.com
         </a>
 
         <div className={css.lowerElements}>
