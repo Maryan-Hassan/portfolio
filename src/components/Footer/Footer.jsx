@@ -42,12 +42,6 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/quirkpixie/">
-                  {/* <InstagramIcon /> */}
-                  Instagram
-                </a>
-              </li>
-              <li>
                 <a href="https://twitter.com/_mrryk">
                   Twitter
                   {/* <TwitterIcon /> */}
