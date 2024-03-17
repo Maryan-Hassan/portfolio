@@ -36,31 +36,25 @@ const Footer = () => {
           <div className={css.socialLinks}>
             <ul className="flexCenter">
               <li>
-                <a href="https://wa.me/+254719455494">
+                <a href="https://wa.me/+254 722 718976">
                   WhatsApp
                   {/* <WhatsAppIcon /> */}
                 </a>
               </li>
               <li>
-                <a href="https://www.facebook.com/abdirizack.issacksiyat">
-                  Facebook
-                  {/* <FacebookIcon /> */}
-                </a>
-              </li>
-              <li>
-                <a href="https://www.instagram.com/abdulrazaq_masta/">
+                <a href="https://www.instagram.com/quirkpixie/">
                   {/* <InstagramIcon /> */}
                   Instagram
                 </a>
               </li>
               <li>
-                <a href="https://twitter.com/ibnu_isxaq">
+                <a href="https://twitter.com/_mrryk">
                   Twitter
                   {/* <TwitterIcon /> */}
                 </a>
               </li>
               <li>
-                <a href="https://github.com/Abdirizackmasta">
+                <a href="https://github.com/maryan-hassan">
                   Github
                   {/* <GitHubIcon /> */}
                 </a>

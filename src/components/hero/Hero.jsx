@@ -19,7 +19,7 @@ const Hero = () => {
           >
             Hey There,
             <br />
-            I'm Maryam
+            I'm Maryan
             <br />
             Hassan.
           </motion.span>
